@@ -1,8 +1,8 @@
 ## 安装主题
 
 
-1. 下载主题文件包并解压后，会得到一个文件夹：`typecho-theme-Arcadia-1.0.0`。
-2. 将`typecho-theme-Arcadia-1.0.0`文件夹重命名为`Arcadia`，上传至typecho的`/usr/themes`目录下。
+1. 下载主题文件包并解压后，会得到一个文件夹：`typecho-theme-Arcadia-1.1.0`。
+2. 将`typecho-theme-Arcadia-1.1.0`文件夹重命名为`Arcadia`，上传至typecho的`/usr/themes`目录下。
 
 ## 更新主题
 

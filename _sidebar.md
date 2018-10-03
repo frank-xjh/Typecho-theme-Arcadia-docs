@@ -1,5 +1,7 @@
 - 开始使用
   - [快速开始](/start)
+- 进阶设定
+  - [Markdown写作](/markdown)
 - 其他说明
   - [开发日志](/changelog)
   - [问题反馈](/feedback)
